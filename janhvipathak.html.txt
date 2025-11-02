@@ -1,0 +1,42 @@
+<!DOCTYPE html> 
+<html long= en>
+<head>meta
+charset= UTF-8>
+<meta name ="view part"content="width +device - width, intial-scale=10">
+<title>course curriculm</title>
+</head>
+<body>
+<!--e commerece-->
+<p allign="center">
+<a href="#youtube link"youtube</a>
+<a href="#vedio" vedio</a>
+
+<a href="#audio " audio</a>
+</p>
+<hr>
+<!-- multimedia vedio-->
+<h1 align ="center"> multimedia vedio </h1>
+<p>
+<vedio width ="px" src="link"> </vedio>
+<hr>
+<!-- multimedia vedio-->
+<h1 align ="center"> multimedia audio </h1>
+<p>
+<audio src="link"> audio </audio>
+<hr>
+
+<!-- youtube vedio-->
+<h1 align ="center"> youtube vedio </h1>
+<p>
+<iframe="link">  </iframe>
+<hr>
+</body>
+</html>
+
+
+
+
+
+
+
+
