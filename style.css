@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>document</title>
+  <style>
+    p{
+      color:brown;
+      background-color :yellow;
+      font-size:small;
+      font-family:'times new romen',times, serif;
+    }
+  </style>
+</head>
+<body>
+  <a href="bottom"> back to bottom</a>
+
+    <p style="color:red"> this is sample html</p>
+    <a href="index.html">click for my second page<a>
+      <p id="box1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi officia eius beatae sed facere maiores id aliquam ex at consectetur voluptatibus commodi in voluptatum ea tempore expedita nulla iusto illo, iure rerum perspiciatis repellendus, culpa, possimus similique. Dignissimos fugit a labore asperiores sit nesciunt reprehenderit, numquam tenetur delectus animi autem?</p>
+    <p id="box2">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cum nesciunt aperiam ipsam dicta obcaecati? Deleniti iure tenetur earum, possimus ex nulla eos, ea ut culpa iusto hic. Architecto, harum! Deserunt, dicta hic? Voluptatibus veritatis dignissimos temporibus nulla dicta beatae, voluptatem autem quibusdam qui minima, praesentium perspiciatis magnam sunt. Sint, quas.</p>
+      <p id="box3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis hic, minima est quibusdam dicta dolor temporibus nostrum nihil necessitatibus enim quisquam, eum culpa similique. Excepturi natus, deleniti unde facilis recusandae, velit, obcaecati hic quidem exercitationem enim dignissimos. Quod asperiores quae quas dolorem fugit voluptatibus itaque. Molestias asperiores commodi nisi non.</p>
+    
+  
+</body>
+</html>
